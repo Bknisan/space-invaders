@@ -1,2 +1,3 @@
 # space-invaders
-space invaders simple game coded in java. 
+space invaders classic game implemented in Java.
+aliens represented as blue crocs shoes
