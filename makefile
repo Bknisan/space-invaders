@@ -1,5 +1,4 @@
-# id 322002080
-# username agabyen
+
 compile: bin
 	find src -name "*.java" > sources.txt
 	javac -cp  biuoop-1.4.jar:. -d bin @sources.txt
